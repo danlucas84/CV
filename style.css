@@ -16,5 +16,8 @@ aside {
     background: #1e2939;
 }
 .cv-foto {
-    margin-top: 25px 0 0 0;
+    margin-top: 25px;
+}
+.header-secondary {
+    background: #ffffff;
 }
