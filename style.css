@@ -13,6 +13,13 @@ body {
 }
 .main-description {
     background: rgb(231, 35, 35);
+    margin: 20px 40px 20px 40px;
+    padding: 40px 10px 5px 3px;
+}
+.block-2 {
+    background: rgb(41, 218, 41);
+    margin: 20px 10px 10px 20px;
+    padding: 40px 10px 10px 20px;
 }
 li {
     color: rgb(58, 196, 58);
