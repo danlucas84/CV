@@ -11,7 +11,7 @@ body {
     background: #ffffff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
-.aside {
+aside {
     width: 370px;
     background: #1e2939;
 }
