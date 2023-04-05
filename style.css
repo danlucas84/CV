@@ -16,11 +16,23 @@ body {
     margin: 20px 40px 20px 40px;
     padding: 40px 10px 5px 3px;
 }
-.block-2 {
+.block-2-Projects {
     background: rgb(41, 218, 41);
     margin: 20px 10px 10px 20px;
     padding: 40px 10px 10px 20px;
 }
+.block-3-Work {
+    background: rgb(127, 35, 231);
+    margin: 20px 40px 20px 40px;
+    padding: 40px 10px 5px 3px;
+}
+
+.block-4-Edu {
+    background: rgb(206, 11, 11);
+    margin: 20px 10px 10px 20px;
+    padding: 40px 10px 10px 20px;
+}
+
 li {
     color: rgb(58, 196, 58);
 }
